@@ -25,7 +25,7 @@ const CONFIG = {
             text: "พี่น่ารักป่าว?",                                    // First interaction
             yesBtn: "มากกกกกก",                                             // Text for "Yes" button
             noBtn: "ไม่!!!",                                               // Text for "No" button
-            secretAnswer: "ก็แบบไม่น่ารักหรอก, แต่ว่ารักนะ❤️"           // Secret hover message
+            secretAnswer: "ตอบดีๆ อย่าให้ต้องมีน้ำโห❤️"           // Secret hover message
         },
         second: {
             text: "รักพี่ป่าววว?  รักเท่าไหร่?",                          // For the love meter
