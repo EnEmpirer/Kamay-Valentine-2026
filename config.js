@@ -15,8 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻'],                       // Cute bear emojis
-        bears: ['𓍢🌷͙֒', '˚⊱🪷⊰˚', '🌺', '🌻', '🪻', '💐', '🌹']                       // Pretty folwers
+        bears: ['🧸', '🐻', '𓍢🌷͙֒', '˚⊱🪷⊰˚', '🌺', '🌻', '🪻', '💐', '🌹']                       // Pretty folwers
     },
 
     // Questions and answers
