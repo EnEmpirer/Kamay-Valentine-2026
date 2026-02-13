@@ -5,32 +5,32 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "N' Wawa",
+    valentineName: "Kamay",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "💖 My cutie Valentine",
+    pageTitle: "Happy Valentine💕",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻', '𓍢🌷͙֒', '˚⊱🪷⊰˚', '🌺', '🌻', '🪻', '💐', '🌹']                       // Pretty folwers
+        bears: ['🧸', '🐻', '🐶', '🐕', '🐩', '🐕‍🦺', '🦮']                       // Pretty folwers
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "พี่น่ารักป่าว?",                                    // First interaction
-            yesBtn: "มากกกกกก",                                             // Text for "Yes" button
-            noBtn: "ไม่!!!",                                               // Text for "No" button
-            secretAnswer: "ตอบดีๆ อย่าให้ต้องมีน้ำโห❤️"           // Secret hover message
+            text: "แฮปปี้วาเลนไทน์ค้าบบบ คิดถึงพี่มะ",                                    // First interaction
+            yesBtn: "ที่สุดในโลก",                                             // Text for "Yes" button
+            noBtn: "ไม่เลยยย",                                               // Text for "No" button
+            secretAnswer: "เบื่อละกดตรงนี้นา🐕‍🦺"           // Secret hover message
         },
         second: {
-            text: "รักพี่ป่าววว?  รักเท่าไหร่?",                          // For the love meter
-            startText: "กี่เปอร์ว่ามา",                                   // Text before the percentage
-            nextBtn: "ไปกันต่อ ❤️"                                         // Text for the next button
+            text: "พี่คิดถึงหนูเนี่ย คิดถึงพี่เท่าไหร่",                          // For the love meter
+            startText: "กี่พันเปอร์",                                   // Text before the percentage
+            nextBtn: "ตอบเสร็จยัง เสร็จแล้วกด❤️"                                         // Text for the next button
         },
         third: {
             text: "เดี๋ยวจะไปหาแล้ว มาเป็นของพี่ซะนะคะ 🌹", // The big question!
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "งื้ออออ รักพี่ขนาดนั้นเลยอ่อเนี่ย?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "มาเป็นเมียพี่ซะเถอะ!!! 🚀💝",              // Shows when they go past 1000%
-        normal: "น่ารักจังเลยค่ะไอต้าว 🥰"                           // Shows when they go past 100%
+        extreme: "คิดถึงอิตายหงแล้วลูกเห้อ ต่อใดอิได้เจอกันซักทีนิ 🥰🚀💝",  // Shows when they go past 5000%
+        high: "คิดถึงมากกกกกก อยากกอดดดหนู 🚀💝",              // Shows when they go past 1000%
+        normal: "คิดถึงหนูด้วย 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "หู้ยยยย เด็กของพี่น่ารักขนาดนี้เลยอ่อเนี่ย 🎉💝💖💝💓",
-        message: "มานี่มามาเอาของขวัญ, กอดชั่วโมงนึงพร้อมอ้าแขนให้นอนซุกตลอดคืน!",
+        title: "Happy Valentine นากะเม 🎉💝💖💝💓",
+        message: "พี่ขอให้วาเลนไทน์ปีนี้หนูเจอแต่คนดีๆ ความรักดีๆจากคนรอบข้าง แล้วก็จากพี่ด้วย รักน้าาา",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
