@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Happy Valentine นากะเม 🎉💝💖💝💓",
         message: "พี่ขอให้วาเลนไทน์ปีนี้หนูเจอแต่คนดีๆ ความรักดีๆจากคนรอบข้าง แล้วก็จากพี่ด้วย รักน้าาา",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁🐕‍🦺🤗🦮🐻🐩💕"  // These will bounce around
     },
 
     // Color scheme for the website
