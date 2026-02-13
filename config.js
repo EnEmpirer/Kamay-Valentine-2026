@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Happy Valentine นากะเม 🎉💝💖💝💓",
+        title: "🎉💝 Happy Valentine นาคนเก่งของพี่ 💖💝💓",
         message: "พี่ขอให้วาเลนไทน์ปีนี้หนูเจอแต่คนดีๆ ความรักดีๆจากคนรอบข้าง แล้วก็จากพี่ด้วย แล้วก็ขอให้หมารักหนูทุกตัวเลย รักหนูน้าาา",
         emojis: "🎁🐕‍🦺🤗🦮🐻🐩💕"  // These will bounce around
     },
