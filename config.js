@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Kamay",
+    valentineName: "กะเม",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "แฮปปี้วาเลนไทน์ค้าบบบ คิดถึงพี่มะ",                                    // First interaction
-            yesBtn: "ที่สุดในโลก",                                             // Text for "Yes" button
-            noBtn: "ไม่เลยยย",                                               // Text for "No" button
-            secretAnswer: "เบื่อละกดตรงนี้นา🐕‍🦺"           // Secret hover message
+            yesBtn: "ที่สุดในโลกกกก",                                             // Text for "Yes" button
+            noBtn: "ไม่เลย",                                               // Text for "No" button
+            secretAnswer: "โถ่ กดสองปุ่มนั้นอยู่นั้นแหละ กดนี้นิมา🐕‍🦺"           // Secret hover message
         },
         second: {
             text: "พี่คิดถึงหนูเนี่ย คิดถึงพี่เท่าไหร่",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "ตอบเสร็จยัง เสร็จแล้วกด❤️"                                         // Text for the next button
         },
         third: {
-            text: "เดี๋ยวจะไปหาแล้ว มาเป็นของพี่ซะนะคะ 🌹", // The big question!
-            yesBtn: "พลีกายถวายชีวี!",                                             // Text for "Yes" button
-            noBtn: "อย่าหวัง"                                                 // Text for "No" button
+            text: "อยากได้คำอวยพรอยากคนหน้าตาดีแบบพี่รึยัง 🌹", // The big question!
+            yesBtn: "พร้อมมม สาธุรอเลย",                                             // Text for "Yes" button
+            noBtn: "ไม่พรื่อ พอใจแล้ว"                                                 // Text for "No" button
         }
     },
 
